@@ -3,6 +3,7 @@
 
 <h1 align="center">Squid Game</h1>
 
+  
 This project was made with the intention of making my first project in programming and the process was very fun. I recommend trying to do it to people who are just starting as in my case because you are going to learn many new things and you are going to enjoy it a lot.
 
 I did it with javascript, html and css.
@@ -17,6 +18,8 @@ This project was based on Angle´s video:
 https://youtu.be/7bTuSZ94F6A
 
 Hope this can help you!
+  
+  ![Image text](https://github.com/LucioSianca/Squid-game/blob/main/Image/Image.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
