@@ -1,4 +1,4 @@
-## Hi 👋, I'm Lucio Sianca <P><br> A passionate developer from Argentina</br>
+## Hi 👋, I'm Lucio Sianca <P><h2>A passionate developer from Argentina<h2>
 
 
 <h1 align="center">Squid Game</h1>
